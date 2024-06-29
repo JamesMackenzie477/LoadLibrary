@@ -1,0 +1,3 @@
+﻿  LoadLibrary.cpp
+LoadLibrary.obj : error LNK2019: unresolved external symbol "void __fastcall RtlInitUnicodeStringEx(struct _UNICODE_STRING *,wchar_t const *)" (?RtlInitUnicodeStringEx@@YIXPAU_UNICODE_STRING@@PB_W@Z) referenced in function _main
+D:\Projects\Hacking\Windows\LoadLibrary\LoadLibrary\Debug\LoadLibrary.exe : fatal error LNK1120: 1 unresolved externals
